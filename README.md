@@ -1,10 +1,9 @@
-# Space-Missions-Data-Analysis-MATLAB-
-A MATLAB-based data analysis project exploring trends, success rates, rocket usage, and launch patterns in global space missions from 1957 to 2022.
+
 
 # Space Missions Data Analysis (MATLAB)
 
 ## Project Overview
-This project analyzes global space missions from **1957 to August 2022** using MATLAB. The dataset includes information on launch locations, companies, rockets, mission outcomes, and costs.
+This project analyzes global space missions from **1957 to August 2022** using MATLAB. The dataset includes information on launch locations, companies, rockets, mission outcomes and costs.
 
 The goal of this analysis is to uncover trends, patterns, and insights related to:
 Rocket launch frequency over time
@@ -34,6 +33,7 @@ Rocket Status
 Price (in USD millions)
 Mission Status
 
+## Data Source: Maven Analytics
 ---
 
 # Exploratory Data Analysis (EDA)
