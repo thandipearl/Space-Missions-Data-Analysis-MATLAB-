@@ -33,7 +33,7 @@ Rocket Status
 Price (in USD millions)
 Mission Status
 
-## Data Source: Maven Analytics
+# Data Source: Maven Analytics
 ---
 
 # Exploratory Data Analysis (EDA)
@@ -42,18 +42,21 @@ Mission Status
 
 ## 1. Rocket Launch Trends Over Time
 
+<img width="676" height="501" alt="EDA 1" src="https://github.com/user-attachments/assets/fec01a9d-d937-42b7-95b3-7df04409e8b3" />
+
 **Insight:**
 Rocket launches have **significantly increased over time**, especially in recent decades.
 Early years (1950s–1970s) show relatively low activity, reflecting the early stages of space exploration.
 A sharp rise is visible in the 2000s and beyond, likely driven by **technological advancements and private sector involvement**.
 This indicates a growing global interest and investment in space exploration.
 
-**Visualization:**  
-*Insert Image Here*
 
 ---
 
 ## 2. Mission Success Rate Over Time
+
+<img width="557" height="501" alt="EDA 2" src="https://github.com/user-attachments/assets/e494ae20-8f71-4384-b894-49520894d0a3" />
+
 
 **Insight:**
 Mission success rates have **steadily improved over time**.
@@ -61,12 +64,12 @@ Early missions had lower success rates due to experimental technology.
 Over time, improvements in engineering, testing, and experience led to **higher reliability**.
 Recent years show consistently high success rates, indicating maturity in space technology.
 
-**Visualization:**  
-*Insert Image Here*
 
 ---
 
 ## 3. Countries with the Most Successful Missions
+
+<img width="626" height="500" alt="EDA 3" src="https://github.com/user-attachments/assets/36d819ab-cada-4429-81e7-c15c460888ce" />
 
 **Insight:**
 A few countries dominate successful space missions.
@@ -74,12 +77,18 @@ Historically, major space powers such as **USA and Russia** lead in total succes
 The data also suggests **emerging participation from other countries**, indicating globalization of space exploration.
 This reflects both historical leadership and modern competition in the space industry.
 
-**Visualization:**  
-*Insert Image Here*
 
 ---
 
 ## 4. Most Used Rockets
+
+<img width="1435" height="972" alt="EDA 4" src="https://github.com/user-attachments/assets/b4ad5ae6-152d-47cd-8d8d-4d5a353d2bfc" />
+
+<img width="382" height="288" alt="Top10Ship table" src="https://github.com/user-attachments/assets/e68e8544-1a8f-4bf6-a6bd-67f4c6a11b23" />
+
+<img width="902" height="793" alt="top 10 most used rockets" src="https://github.com/user-attachments/assets/5ef4bade-f642-4125-99e5-e2c61a772e25" />
+
+
 
 **Insight:**
 The analysis shows that a few rockets dominate launch activity, with the **most frequently used rockets** including:
@@ -98,12 +107,20 @@ Among these, **Soyuz rockets** appear as the most consistently used, reflecting 
 
   While some of these rockets (like **Falcon 9**) are still active, others (such as older **Cosmos** and **Delta variants**) have been retired, showing how space technology evolves over time.
 
-**Visualization:**  
-*Insert Image Here*
+<img width="345" height="168" alt="Retired Rocket" src="https://github.com/user-attachments/assets/78f3d3c5-20af-4e6f-b81a-c80b1b9d214f" />
+
 
 ---
 
 ## 5. Launch Location Patterns
+
+<img width="1751" height="1000" alt="EDA 5" src="https://github.com/user-attachments/assets/eb648610-ea49-427d-a562-0929bfa27b3b" />
+
+<img width="551" height="276" alt="Top 10 Launced location" src="https://github.com/user-attachments/assets/aa1a0f59-3b91-4295-87ae-716efccfeb33" />
+
+
+<img width="1204" height="885" alt="top 10 launced places graph" src="https://github.com/user-attachments/assets/2e6f4ca9-82b6-4f52-bd7b-57b41798b396" />
+
 
 **Insight:**
 Launch activity is concentrated in a few key global locations, with the most prominent being:
@@ -122,24 +139,25 @@ Coastal and remote areas are commonly used to **minimize risk to populated regio
 
 The concentration of launches in these locations highlights how **space activity is geographically centralized**, despite global participation.
 
-**Visualization:**  
-*Insert Image Here*
-
 ---
 
 ## 6. Cost vs Mission Success
+
+<img width="1130" height="750" alt="EDA 6" src="https://github.com/user-attachments/assets/796afc1e-edf4-44f5-b68b-b26961c11837" />
+
 
 **Insight:**
 There is **no strong visible correlation** between cost and mission success.
 Both low-cost and high-cost missions can succeed or fail.
 This suggests that **factors like engineering quality and mission design** are more critical than cost alone.
 
-**Visualization:**  
-*Insert Image Here*
 
 ---
 
 ## 7. Active vs Inactive Rockets
+
+<img width="951" height="716" alt="EDA 7" src="https://github.com/user-attachments/assets/0884e746-8d25-48be-a1a0-566976a15170" />
+
 
 **Insight:**
 The dataset shows a mix of **active and inactive rockets**.
@@ -148,8 +166,6 @@ Technological advancements
 Replacement by newer, more efficient models
 This demonstrates the **rapid evolution of space technology**.
 
-**Visualization:**  
-*Insert Image Here*
 
 ---
 
@@ -167,11 +183,8 @@ Space technology evolves rapidly, leading to inactive rockets
 
 # 🚀 Conclusion
 
-This project demonstrates how data analysis can uncover meaningful insights in the space industry. By leveraging MATLAB for data cleaning, analysis, and visualization, we were able to identify trends in mission success, rocket usage, and global participation in space exploration.
+This project demonstrates how data analysis can uncover meaningful insights in the space industry. By leveraging MATLAB for data cleaning, analysis and visualization, we were able to identify trends in mission success, rocket usage and global participation in space exploration.
 
 ---
-
-# ⭐ Author
-
-**Chomi**  
+ 
 Aspiring Data Analyst | MATLAB | Data Visualization
