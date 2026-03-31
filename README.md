@@ -23,7 +23,7 @@ Data Visualization
 ---
 
 ## Dataset Description
-The dataset contains 499 records with the following fields:
+The dataset contains 4 631 records with the following fields:
 Company
 Location
 Date & Time
