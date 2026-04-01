@@ -92,10 +92,10 @@ This reflects both historical leadership and modern competition in the space ind
 
 **Insight:**
 The analysis shows that a few rockets dominate launch activity, with the **most frequently used rockets** including:
-**Soyuz**
-**Cosmos**
-**Falcon 9**
-**Delta**
+**Soyuz**, 
+**Cosmos**, 
+**Falcon 9**, 
+**Delta** and 
 **Atlas**
 
 Among these, **Soyuz rockets** appear as the most consistently used, reflecting their:
