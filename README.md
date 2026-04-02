@@ -146,11 +146,7 @@ The concentration of launches in these locations highlights how **space activity
 <img width="1130" height="750" alt="EDA 6" src="https://github.com/user-attachments/assets/796afc1e-edf4-44f5-b68b-b26961c11837" />
 
 
-**Insight:**
-There is **no strong visible correlation** between cost and mission success.
-Both low-cost and high-cost missions can succeed or fail.
-This suggests that **factors like engineering quality and mission design** are more critical than cost alone.
-
+There is no strong visible correlation between cost and mission success. Both low-cost and high-cost missions can succeed or fail. This suggests that factors like engineering quality and mission design are more critical than cost alone.
 
 ---
 
