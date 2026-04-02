@@ -90,22 +90,11 @@ This reflects both historical leadership and modern competition in the space ind
 
 
 
-**Insight:**
-The analysis shows that a few rockets dominate launch activity, with the **most frequently used rockets** including:
-**Soyuz**, 
-**Cosmos**, 
-**Falcon 9**, 
-**Delta** and 
-**Atlas**
+The analysis shows that a few rockets dominate launch activity, with the most frequently used rockets including: Cosmos-3M & 2I, Voskhod, Molniya-M, Soyuz U, Tsyklon-3 & 2 and the Falcon 9.
+Among these, Cosmos rockets appear as the most consistently used, reflecting their long operational history,  proven reliability and continued use across decades.
+Falcon 9, a more modern rocket, also ranks highly, highlighting the growing influence of private space companies in recent years.
+While some of these rockets (like Falcon 9) are still active, others (such as older Cosmos and Delta variants) have been retired, showing how space technology evolves over time.
 
-Among these, **Soyuz rockets** appear as the most consistently used, reflecting their:
-  Long operational history
-  Proven reliability
-  Continued use across decades
-
-  **Falcon 9**, a more modern rocket, also ranks highly, highlighting the **growing influence of private space companies** in recent years.
-
-  While some of these rockets (like **Falcon 9**) are still active, others (such as older **Cosmos** and **Delta variants**) have been retired, showing how space technology evolves over time.
 
 <img width="345" height="168" alt="Retired Rocket" src="https://github.com/user-attachments/assets/78f3d3c5-20af-4e6f-b81a-c80b1b9d214f" />
 
