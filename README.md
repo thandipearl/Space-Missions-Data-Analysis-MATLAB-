@@ -122,22 +122,12 @@ Among these, **Soyuz rockets** appear as the most consistently used, reflecting 
 <img width="1204" height="885" alt="top 10 launced places graph" src="https://github.com/user-attachments/assets/2e6f4ca9-82b6-4f52-bd7b-57b41798b396" />
 
 
-**Insight:**
-Launch activity is concentrated in a few key global locations, with the most prominent being:
-**Baikonur Cosmodrome (Kazakhstan)**
-**Cape Canaveral (USA)**
-**Vandenberg Air Force Base (USA)**
-**Kourou Spaceport (French Guiana)**
-**Plesetsk Cosmodrome (Russia)**
+Launch activity is concentrated in a few key global locations, with the most prominent being: Baikonur Cosmodrome (Kazakhstan), Plesetsk Cosmodrome (Russia), Kennedy Space Center, Florida (USA) and Guiana Space Centre (France).
 
-These locations dominate due to:
-Strategic positioning (e.g., proximity to the equator for fuel efficiency)
-Established infrastructure
-Historical significance in space programs
+These locations dominate due to strategic positioning (e.g., proximity to the equator for fuel efficiency), established infrastructure and historical significance in space programs.
+Coastal and remote areas are commonly used to minimize risk to populated regions during launches.
+The concentration of launches in these locations highlights how space activity is geographically centralized, despite global participation.
 
-Coastal and remote areas are commonly used to **minimize risk to populated regions** during launches.
-
-The concentration of launches in these locations highlights how **space activity is geographically centralized**, despite global participation.
 
 ---
 
