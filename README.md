@@ -44,7 +44,7 @@ Mission Status
 
 <img width="676" height="501" alt="EDA 1" src="https://github.com/user-attachments/assets/fec01a9d-d937-42b7-95b3-7df04409e8b3" />
 
-**Insight:**
+
 Rocket launches have **significantly increased over time**, especially in recent decades.
 Early years (1950s–1970s) show relatively low activity, reflecting the early stages of space exploration.
 A sharp rise is visible in the 2000s and beyond, likely driven by **technological advancements and private sector involvement**.
@@ -58,7 +58,7 @@ This indicates a growing global interest and investment in space exploration.
 <img width="557" height="501" alt="EDA 2" src="https://github.com/user-attachments/assets/e494ae20-8f71-4384-b894-49520894d0a3" />
 
 
-**Insight:**
+
 Mission success rates have **steadily improved over time**.
 Early missions had lower success rates due to experimental technology.
 Over time, improvements in engineering, testing, and experience led to **higher reliability**.
@@ -71,7 +71,6 @@ Recent years show consistently high success rates, indicating maturity in space 
 
 <img width="626" height="500" alt="EDA 3" src="https://github.com/user-attachments/assets/36d819ab-cada-4429-81e7-c15c460888ce" />
 
-**Insight:**
 A few countries dominate successful space missions.
 Historically, major space powers such as **USA and Russia** lead in total successful launches.
 The data also suggests **emerging participation from other countries**, indicating globalization of space exploration.
