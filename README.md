@@ -159,12 +159,7 @@ This suggests that **factors like engineering quality and mission design** are m
 <img width="951" height="716" alt="EDA 7" src="https://github.com/user-attachments/assets/0884e746-8d25-48be-a1a0-566976a15170" />
 
 
-**Insight:**
-The dataset shows a mix of **active and inactive rockets**.
-A significant portion of rockets are no longer in use, reflecting:
-Technological advancements
-Replacement by newer, more efficient models
-This demonstrates the **rapid evolution of space technology**.
+The dataset shows a mix of active and inactive rockets. A significant portion of rockets are no longer in use reflecting technological advancements and replacement by newer, more efficient models. This demonstrates the rapid evolution of space technology.
 
 
 ---
